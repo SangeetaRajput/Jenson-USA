@@ -35,7 +35,8 @@ The analysis involves executing the following SQL queries:
 12.Identify the customers who have ordered all types of products (i.e., from every category).
 For the complete SQL queries, please refer to the attached PDF document in the project repository.
 
-MySQL Features Used
+# MySQL Features Used
+
 The following MySQL features were utilized to execute the queries:
 
  &#8226; SELECT Statement: To retrieve specific columns and data from the database.
